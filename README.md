@@ -1,12 +1,9 @@
-# FITBOOST
-Ideas that can boost fitness activities and assist in keeping fit.
+**Project Name**: Fit Boost
 
-Project Name: Fit Boost
+**Final Year Project**
 
-Final Year Project
+**Description**: PSCS307 - Ideas that can boost fitness activities and assist in keeping fit.
 
-Description: PSCS307 - Ideas that can boost fitness activities and assist in keeping fit.
+**Complexity**: Complex
 
-Complexity: Complex
-
-Interest Match: HTML, CSS, Javascript, Python
+**Interest Match**: HTML, CSS, Javascript, Python
